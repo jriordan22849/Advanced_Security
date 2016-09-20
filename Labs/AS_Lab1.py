@@ -1,4 +1,13 @@
-def getMessage():	
+'''
+    Advanced Security
+    Lab 1
+    Jonathan Riordan
+    C13432152
+    
+    Part 1
+'''
+
+def getMessage():
 	input_variable = raw_input("Enter your message: ")
 	return input_variable
 
